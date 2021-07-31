@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* common section */
+html,body{
+    overflow-x: hidden;
+    
+}
+body{
+    position: relative;
+    font-family: 'Montserrat', sans-serif;
+}
+.nav-main{
+    background:#dd9481;
+}
+.logo img{
+    height: 80px;
+    width:150px;
+}
+.menu-login{
+    background-color: rgb(221, 84, 148);
+    border-radius: 10px;
+}
+.menu:hover{
+    background-color: rgb(221, 84, 84);
+    border-radius: 10px;
+}
+.orange{
+color: #fd5332;
+}
+.hero-text{
+    font-weight: bold;
+    font-size: 60px;
+    color: #575757;
+    font-family: 'Montserrat', sans-serif;
+}
+.hero-para{
+    color: #828282;
+    font-weight: 500;
+    font-size: 20px;
+    
+}
+.order{
+    font-weight: 600;
+    font-size: 18px;
+    padding: 23px 43px;
+    background: linear-gradient(88.33deg, #FBA24F -7.64%, #FF1E1E 145.94%);
+    box-shadow: 0px 2px 30px rgba(252, 143, 73, 0.5);
+    border-radius: 100px;
+    text-decoration: none;
+    color: #FFFFFF;
+}
+.order:hover{
+    color: #FFFFFF;
+}
+.hero-img{
+    margin-bottom: 73px;
+}
+.about-me{
+    background:url(images/shapes/7.png);
+}
+.img-fluids{
+    width: 338px;
+    height: 536px;
+}
+.orders{
+    margin-top: 111px;
+}
+.card-side{
+    background: #FFFFFF;
+box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
+border-radius: 30px;
+padding: 20px;
+}
+.card-title{
+    font-weight: 800;
+    font-size: 28px;
+    color: #18191F;
+    margin-bottom: 10px;
+}
+.card-body{
+    margin-top: 40px;
+    font-size: 22px;
+    color: #18191F;
+    line-height: 32px;
+}
+.reciepe{
+    margin-bottom: 129px;
+}
+.count-border{
+    background: #FFFFFF;
+    box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.1);
+    border-radius: 20px;
+    padding: 64px 118px;
+    margin-bottom: 92px;
+}
+.bg-dark{
+    background: #0B0D17;
+}
